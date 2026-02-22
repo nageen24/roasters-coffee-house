@@ -6,7 +6,7 @@ A modern, full-featured restaurant website built with **Next.js 15** for Roaster
 
 ## Live Demo
 
-Deployed on Vercel: [roasters-coffee-house.vercel.app](https://roasters-coffee-house.vercel.app)
+Deployed on Vercel: [roasterscoffeehouse.vercel.app](https://roasterscoffeehouse.vercel.app)
 
 ---
 
